@@ -3,3 +3,7 @@
 ### Nesse projeto estou criando um primeiro repositório no git, realizando o clone, fazer algumas alterações no Readme.md e depois subundo o arquivo alterado na máquina.
 
 [Documentação Git](https://git-scm.com/docs/git)
+
+[Documentação Config-Git](https://git-scm.com/docs/git-config)
+
+[Documentação Help-Git](https://git-scm.com/docs/git-help)
